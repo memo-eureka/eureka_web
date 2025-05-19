@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { signInWithGoogle } from "../auth/firebase";
 import axios, { setAccessToken } from "../api/axios";
 
